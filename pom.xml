@@ -5,7 +5,7 @@
 
     <artifactId>properlyChainedHeart</artifactId>
     <version>0.0.1</version>
-    <name>Heart Balance Patch</name>
+    <name>Properly Chained Heart</name>
     <description>Causes a certain enemy to cleanse an equivalent amount of stacks of shackled when cleansing negative strength stacks.</description>
     <!-- Change the above for mod information. -->
 
